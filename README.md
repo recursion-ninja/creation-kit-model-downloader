@@ -2,7 +2,7 @@
 
 Saves models rendered by the Creation Kit framework as an OBJ file. 
 After assets have been loaded by the client browser, local JavaScript
-runs to connvert the current `three.js`-based WebGL rendering on the 
+runs to convert the current `three.js`-based WebGL rendering on the 
 current page to an OBJ file.
 
 #### Step 1:
@@ -30,7 +30,7 @@ Safari  | N/A | <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>C</kbd> | N/A
 
 Copy & paste the contents of the `creation-kit-model-downloader.js` file into the browser JavaScript console.
 
-*Note:* If this is your first time invoking the JavaScript console in your browser you may be prompted to assert you are condifent in the action you're about to perform. Executing arbitray JavaScript code that you ddon't understand is a significant security risk. It's at this point you must deeply ponder whether you understand/trust this repositories code.
+*Note:* If this is your first time invoking the JavaScript console in your browser you may be prompted to assert you are confident in the action you're about to perform. Executing arbitray JavaScript code that you don't understand is a significant security risk. It's at this point you must deeply ponder whether you understand/trust this repositories code.
 
 #### Step 5:
 
