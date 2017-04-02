@@ -1,9 +1,9 @@
-### Creation Kit model downloader
+## Creation Kit model downloader
 
 Saves models rendered by the Creation Kit framework as an OBJ file. 
 After assets have been loaded by the client browser, local JavaScript
 runs to connvert the current `three.js`-based WebGL rendering on the 
-current page to an OBJ file (with some filtering).
+current page to an OBJ file.
 
 #### Step 1:
 
